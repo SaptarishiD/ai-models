@@ -1,0 +1,297 @@
+time,rmse_fcn,rmse_pangu,mae_fcn,mae_pangu,bias_fcn,bias_pangu,corr_fcn,corr_pangu
+0.0,"<xarray.DataArray ()> Size: 4B
+array(0.00022809, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 00:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01","<xarray.DataArray ()> Size: 4B
+array(0.00022809, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 00:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01","<xarray.DataArray ()> Size: 4B
+array(0.00019684, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 00:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01","<xarray.DataArray ()> Size: 4B
+array(0.00019684, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 00:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01","<xarray.DataArray ()> Size: 4B
+array(-2.330786e-06, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 00:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01","<xarray.DataArray ()> Size: 4B
+array(-2.330786e-06, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 00:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01",0.999999999115524,0.999999999115524
+6.0,"<xarray.DataArray ()> Size: 4B
+array(0.3557829, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 06:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T06:00:00","<xarray.DataArray ()> Size: 4B
+array(0.25517815, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 06:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T06:00:00","<xarray.DataArray ()> Size: 4B
+array(0.26663297, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 06:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T06:00:00","<xarray.DataArray ()> Size: 4B
+array(0.17464164, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 06:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T06:00:00","<xarray.DataArray ()> Size: 4B
+array(-0.04295436, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 06:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T06:00:00","<xarray.DataArray ()> Size: 4B
+array(0.00142159, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 06:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T06:00:00",0.9977920880364353,0.9988384885167845
+12.0,"<xarray.DataArray ()> Size: 4B
+array(0.41227162, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 12:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T12:00:00","<xarray.DataArray ()> Size: 4B
+array(0.3230082, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 12:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T12:00:00","<xarray.DataArray ()> Size: 4B
+array(0.32213604, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 12:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T12:00:00","<xarray.DataArray ()> Size: 4B
+array(0.24516702, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 12:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T12:00:00","<xarray.DataArray ()> Size: 4B
+array(0.037854, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 12:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T12:00:00","<xarray.DataArray ()> Size: 4B
+array(0.05121496, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 12:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T12:00:00",0.9967603956365433,0.9980276246129263
+18.0,"<xarray.DataArray ()> Size: 4B
+array(0.413381, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 18:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T18:00:00","<xarray.DataArray ()> Size: 4B
+array(0.31384373, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 18:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T18:00:00","<xarray.DataArray ()> Size: 4B
+array(0.33115247, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 18:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T18:00:00","<xarray.DataArray ()> Size: 4B
+array(0.24167013, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 18:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T18:00:00","<xarray.DataArray ()> Size: 4B
+array(-0.00288389, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 18:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T18:00:00","<xarray.DataArray ()> Size: 4B
+array(0.05025086, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 18:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-01T18:00:00",0.9967954795557943,0.998135860492818
+24.0,"<xarray.DataArray ()> Size: 4B
+array(0.5239733, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02","<xarray.DataArray ()> Size: 4B
+array(0.43377405, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02","<xarray.DataArray ()> Size: 4B
+array(0.42108384, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02","<xarray.DataArray ()> Size: 4B
+array(0.330928, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02","<xarray.DataArray ()> Size: 4B
+array(-0.08721536, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02","<xarray.DataArray ()> Size: 4B
+array(0.01205946, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02",0.9950747494726491,0.996547970267075
+30.0,"<xarray.DataArray ()> Size: 4B
+array(0.5881515, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 06:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T06:00:00","<xarray.DataArray ()> Size: 4B
+array(0.44964758, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 06:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T06:00:00","<xarray.DataArray ()> Size: 4B
+array(0.48200732, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 06:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T06:00:00","<xarray.DataArray ()> Size: 4B
+array(0.35345134, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 06:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T06:00:00","<xarray.DataArray ()> Size: 4B
+array(-0.17440389, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 06:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T06:00:00","<xarray.DataArray ()> Size: 4B
+array(-0.02741135, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 06:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T06:00:00",0.9944447099256872,0.9964671537297172
+36.0,"<xarray.DataArray ()> Size: 4B
+array(0.64699876, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 12:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T12:00:00","<xarray.DataArray ()> Size: 4B
+array(0.50383645, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 12:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T12:00:00","<xarray.DataArray ()> Size: 4B
+array(0.5091905, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 12:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T12:00:00","<xarray.DataArray ()> Size: 4B
+array(0.39607882, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 12:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T12:00:00","<xarray.DataArray ()> Size: 4B
+array(-0.20640412, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 12:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T12:00:00","<xarray.DataArray ()> Size: 4B
+array(-0.07024444, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 12:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T12:00:00",0.9929858806840905,0.9953745761203359
+42.0,"<xarray.DataArray ()> Size: 4B
+array(0.7767978, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 18:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T18:00:00","<xarray.DataArray ()> Size: 4B
+array(0.5442638, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 18:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T18:00:00","<xarray.DataArray ()> Size: 4B
+array(0.582332, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 18:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T18:00:00","<xarray.DataArray ()> Size: 4B
+array(0.4382958, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 18:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T18:00:00","<xarray.DataArray ()> Size: 4B
+array(-0.2790152, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 18:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T18:00:00","<xarray.DataArray ()> Size: 4B
+array(-0.01797201, dtype=float32)
+Coordinates:
+    level          int32 4B 500
+    step           timedelta64[ns] 8B 1 days 18:00:00
+    isobaricInhPa  float64 8B 500.0
+    valid_time     datetime64[ns] 8B 2022-01-02T18:00:00",0.9907827097211183,0.9944993078005325
